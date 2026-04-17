@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4d9a6;
+  color: #4a3212;
+}
+
+header {
+  text-align: center;
+  padding: 30px;
+  background: #e6b86a;
+}
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
+}
+
+.sand-card {
+  background: #fff2d8;
+  border: 2px solid #d6a15d;
+  padding: 20px;
+  min-width: 180px;
+  border-radius: 14px;
+  text-align: center;
+}
