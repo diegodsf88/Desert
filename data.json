@@ -1,0 +1,9 @@
+{
+  "theme": "desert",
+  "elements": [
+    "sand",
+    "sun",
+    "wind",
+    "cactus"
+  ]
+}
